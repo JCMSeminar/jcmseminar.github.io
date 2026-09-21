@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "September 24st, 2026: Asbjørn Bækgaard Lauritsen"
+title: "September 24th, 2026: Asbjørn Bækgaard Lauritsen"
 date: 2026-09-18 15:00:01 +0100
 categories:
 ---
 
-# September 24st, 2026: Asbjørn Bækgaard Lauritsen
+# September 24th, 2026: Asbjørn Bækgaard Lauritsen
 
-On Thursday, September 24st, 2026 from 14:00 to 14:45 we will host a seminar by **Asbjørn Bækgaard Lauritsen** from **Université Paris-Dauphine**
+On Thursday, September 24th, 2026 from 14:00 to 14:45 we will host a seminar by **Asbjørn Bækgaard Lauritsen** from **Université Paris-Dauphine**
 
 ## Title
 The $v$-representability problem of time-dependent density functional theory

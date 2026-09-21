@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "September 24st, 2026: Joscha Henheik "
+title: "September 24th, 2026: Joscha Henheik "
 date: 2026-09-18 13:00:01 +0100
 categories:
 ---
 
-# September 24st, 2026: Joscha Henheik
+# September 24th, 2026: Joscha Henheik
 
-On Thursday, September 24st, 2026 from 13:00 to 13:45 we will host a seminar by **Joscha Henheik** from **University of Oxford**.
+On Thursday, September 24th, 2026 from 13:00 to 13:45 we will host a seminar by **Joscha Henheik** from **University of Oxford**.
 
 ## Title
 The Eigenstate Thermalisation Hypothesis in Random Matrix Theory: Anomalous Rates at Spectral Singularities
