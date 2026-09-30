@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "November 2nd, 2026: Jiong-Hao Wang"
+title: "November 9th, 2026: Patric Holmvall"
 date: 2026-09-29 13:00:01 +0100
 categories:
 ---

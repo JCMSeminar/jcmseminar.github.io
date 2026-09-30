@@ -1,0 +1,15 @@
+---
+layout: default
+title: "November 16th, 2026: Hui Liu"
+date: 2026-09-29 13:00:01 +0100
+categories:
+---
+
+# November 16th, 2026: Hui Liu
+On Monday, November 16th, 2026 from 10:15 to 10:15 we will host a seminar by **Hui Liu** from **Stockholm University**.
+
+## Title
+TBA
+
+## Abstract 
+TBA
