@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "November 1th, 2026: Matteo Dürrnagel"
+title: "November 11th, 2026: Matteo Dürrnagel"
 date: 2026-09-29 13:00:01 +0100
 categories:
 ---
