@@ -9,7 +9,7 @@ categories:
 On Monday, November 9th, 2026 from 10:15 to 10:15 we will host a seminar by **Hui Liu** from **Stockholm University**.
 
 ## Title
-TBA
+Controlling intraband topology through energy ordering
 
 ## Abstract 
-TBA
+A band with zero Chern number can host energy-resolved topological fine structure. We show that this structure can be controlled within a single isolated band by rearranging its Bloch-state energies alone, without changing the underlying eigenstates. Using a two-orbital lattice model as a representative example, we demonstrate that tuning scalar hopping changes the spectral localizer index inside the band while preserving its Berry curvature and keeping the interband gap open, leading to nontrivial chiral edge states within the band. Berry phases around closed constant-energy contours predict the resolved low-lying localizer levels and thus explain the presence of intraband nontrivial chiral edge states. Our work connects Bloch-state geometry to the real-space spectral localizer, providing a route toward engineering topological boundary transport without requiring a nonzero band Chern number. 
