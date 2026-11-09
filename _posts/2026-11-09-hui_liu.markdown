@@ -6,7 +6,7 @@ categories:
 ---
 
 # November 9th, 2026: Hui Liu
-On Monday, November 9th, 2026 from 10:15 to 10:15 we will host a seminar by **Hui Liu** from **Stockholm University**.
+On Monday, November 9th, 2026 from 10:15 to 11:15 we will host a seminar by **Hui Liu** from **Stockholm University**.
 
 ## Title
 Controlling intraband topology through energy ordering

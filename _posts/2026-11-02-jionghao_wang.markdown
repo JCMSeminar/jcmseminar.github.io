@@ -6,7 +6,7 @@ categories:
 ---
 
 # November 2nd, 2026: Jiong-Hao Wang
-On Monday, November 2nd, 2026 from 10:15 to 10:15 we will host a seminar by **Jiong-Hao Wang** from **Stockholm University**.
+On Monday, November 2nd, 2026 from 10:15 to 11:15 we will host a seminar by **Jiong-Hao Wang** from **Stockholm University**.
 
 ## Title
 Topological Order and Non-Hermitian Skin Effect in Generalized Ideal Chern Bands

@@ -6,7 +6,7 @@ categories:
 ---
 
 # October 26th, 2026: Hennadii Yerzhakov
-On Monday, October 26th, 2026 from 10:15 to 10:15 we will host a seminar by **Hennadii Yerzhakov** from **Nordita**.
+On Monday, October 26th, 2026 from 10:15 to 11:15 we will host a seminar by **Hennadii Yerzhakov** from **Nordita**.
 
 ## Title
 Topological superconductivity and induced triplet pairing in the high-field vortex states of Rashba spin-orbit-coupled and s-wave centrosymmetric superconductors
