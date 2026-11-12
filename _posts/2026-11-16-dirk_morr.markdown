@@ -1,0 +1,17 @@
+---
+layout: default
+title: "November 16th, 2026: Dirk K. Morr"
+date: 2026-10-29 13:00:01 +0100
+categories:
+---
+
+# November 16th, 2026: Dirk K. Morr
+On Monday, November 16th, 2026 from 10:15 to 11:15 we will host a seminar by **Dirk K. Morr** from **University of Illinois at Chicago**.
+
+## Title
+Realizing Topological Quantum Computing: From Materials to Algorithms
+
+## Abstract 
+Magnet-Superconductor Hybrid (MSH) systems have proven to be versatile platforms for the engineering of topological superconductivity and the ensuing Majorana zero modes (MZMs), an important step towards the realization of topological quantum computing. In particular, the experimental ability to create MSH system with widely varying magnetic structures -- from ferromagnetic and skyrmion-like to antiferromagnetic – has provided an unprecedented opportunity to manipulate and explore topological phases.
+
+In this talk, I will review some recent progress in the theoretical prediction and experimental realization of novel topological superconducting phases – ranging from strong and higher order topological superconductors to topological nodal-point superconductivity -- in MSH systems. Moreover, I will demonstrate how the manipulation of the magnetic structure in MSH systems provides a new path to braiding MZMs and to the real time simulation of topologically protected quantum algorithms. As an example, I will show how the Bernstein-Vazirani problem can be solved using a Majorana-based, fault-tolerant quantum algorithm.

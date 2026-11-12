@@ -6,7 +6,7 @@ categories:
 ---
 
 # November 11th, 2026: Matteo Dürrnagel
-On Monday, November 11th, 2026 from 10:15 to 11:15 we will host a seminar by **Matteo Dürrnagel** from **University of Würzburg**.
+On Wednesday, November 11th, 2026 from 10:15 to 11:15 we will host a seminar by **Matteo Dürrnagel** from **University of Würzburg**.
 
 ## Title
 Exotic ordering mechanisms from non-symmorphic momentum space symmetries
