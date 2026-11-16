@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "November 23rd, 2026: Fan Yang"
-date: 2026-11-1 13:00:01 +0100
+date: 2026-11-10 13:00:01 +0100
 categories:
 ---
 
@@ -9,7 +9,10 @@ categories:
 On Monday, November 23rd, 2026 from 10:15 to 11:15 we will host a seminar by **Fan Yang** from **Stockholm University**.
 
 ## Title
-TBA
+Non-Bloch Topology of Frustrated Non-Hermitian Flat Bands
 
 ## Abstract 
-TBA
+Frustrated lattices with exactly flat bands and compact localized states provide an ideal setting to uncover the topology of flat bands, leading to intriguing physics in two dimensions. Extending from Hermitian to non-Hermitian systems, however, band structures are drastically changed by the non-Hermitian skin effect, which is less well understood beyond one dimension. Here, we construct a broad class of two-dimensional frustrated non-Hermitian lattice models with exactly flat bands which can be naturally described in a non-Bloch band theory. Using non-Hermitian breathing Kagome and checkerboard models as illustrations, we reveal how flat bands acquire a basis-independent skin effect induced by the other bands; in the breathing Kagome model it appears exactly when the flat band enters the area spanned by the periodic-boundary spectra of the dispersive bands. A flat band becomes singular when its eigenvectors hold immovable discontinuities at band crossings. Such singularity in non-Hermitian systems is sensitive to boundary conditions and unprotected by band flatness. Non-Bloch topology underlying is uncovered in a bulk-boundary correspondence with the formation of a singular band touching in the bulk and a robust flat band skin mode on the boundary. We present a geometric approach to construct this boundary skin mode from a macroscopic sum of compact localized skin modes and trace its topological origin to two linearly independent noncontractible loop states on a non-Bloch torus. To characterize the correspondence, an invariant is proposed based on biorthogonal polarization of the zero-energy corner mode. Breaking exact flatness, we further realize nearly flat non-Bloch Chern bands.
+
+Reference:
+Fan Yang, Jiong-Hao Wang, Hui Liu, Emil J. Bergholtz, "Non-Bloch Topology of Frustrated Non-Hermitian Flat Bands", arXiv: 2611.15863.
